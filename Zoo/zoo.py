@@ -1,5 +1,4 @@
 print("I love animals")
-print("Let`s check out the animals...")
-print("The deeer looks fine.")
-print()
-print("The lion looks healthy.")
+print("Let's check out the animals...")
+print("The deer looks fine./n")
+print("The lion looks healthy")
