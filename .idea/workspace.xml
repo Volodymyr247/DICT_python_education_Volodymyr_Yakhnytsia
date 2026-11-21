@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4f6234c-fa2d-4bfd-a2b1-27bf16d82ed6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pencils_game/pencils_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simplified_markdown_editor/simplified_markdown_editor.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplified_markdown_editor/simplified_markdown_editor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,25 +42,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.chatbot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dinnerparty.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hangman.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pencils_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tictactoe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zoo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature/pencils&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.chatbot.executor": "Run",
+    "Python.dinnerparty.executor": "Run",
+    "Python.hangman.executor": "Run",
+    "Python.pencils_game.executor": "Run",
+    "Python.simplified_markdown_editor.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.tictactoe.executor": "Run",
+    "Python.zoo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "feature/simplified__markdown__editor",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
-  <component name="RunManager" selected="Python.dinnerparty">
+}]]></component>
+  <component name="RunManager">
     <configuration name="dinnerparty" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
