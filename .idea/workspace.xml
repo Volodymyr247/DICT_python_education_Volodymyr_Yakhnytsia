@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4f6234c-fa2d-4bfd-a2b1-27bf16d82ed6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pencils_game/pencils_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simplified_markdown_editor/simplified_markdown_editor.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplified_markdown_editor/simplified_markdown_editor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Python.dinnerparty.executor": "Run",
     "Python.hangman.executor": "Run",
     "Python.pencils_game.executor": "Run",
+    "Python.simplified_markdown_editor.executor": "Run",
     "Python.test.executor": "Run",
     "Python.tictactoe.executor": "Run",
     "Python.zoo.executor": "Run",
@@ -56,7 +57,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "feature/pencils",
+    "git-widget-placeholder": "feature/simplified__markdown__editor",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
